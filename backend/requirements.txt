@@ -7,3 +7,4 @@ google.generativeai
 requests 
 werkzeug
 python-dotenv
+flask_sqlalchemy
