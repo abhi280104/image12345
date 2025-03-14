@@ -1,0 +1,20 @@
+{
+    "images": [
+      {
+        "id": 1,
+        "url": "https://static.toiimg.com/thumb/msid-112621799,width-400,resizemode-4/112621799.jpg",
+        "path": "dummy_path/image1.jpg"
+      },
+      {
+        "id": 2,
+        "url": "https://static.toiimg.com/thumb/msid-112621799,width-400,resizemode-4/112621799.jpg",
+        "path": "dummy_path/image2.jpg"
+      },
+      {
+        "id": 3,
+        "url": "https://static.toiimg.com/thumb/msid-112621799,width-400,resizemode-4/112621799.jpg",
+        "path": "dummy_path/image3.jpg"
+      }
+    ]
+  }
+  

@@ -1,0 +1,43 @@
+# 🚀 General Ignored Files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.local
+
+# 🟢 Node.js / Frontend (React, Vite)
+node_modules
+dist
+dist-ssr
+build
+.env.local
+.vite/deps
+.vite/*.log
+.vite/*.temp
+
+# 🔴 Python / Backend (Flask)
+__pycache__/
+*.py[cod]
+*.sqlite3
+instance/
+.env  
+.env.*
+.venv/
+virtualenv/
+venv/
+flask_session/
+migrations/
+db.sqlite3
+
+# 🔷 VS Code / JetBrains / OS-Specific
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
