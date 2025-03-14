@@ -1,10 +1,10 @@
-flask 
-pillow 
-flask_cors 
-flask_jwt_extended 
-boto3 
-google.generativeai 
-requests 
+Flask
+Pillow
+flask_cors
+flask_jwt_extended
+boto3
+google-generativeai
+requests
 werkzeug
 python-dotenv
 flask_sqlalchemy
