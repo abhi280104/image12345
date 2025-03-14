@@ -8,3 +8,4 @@ requests
 werkzeug
 python-dotenv
 flask_sqlalchemy
+psycopg2
